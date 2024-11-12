@@ -16,7 +16,7 @@ import java.util.Random;
 public class SendEmail {
 
     private final String from = "trungpthe170431@fpt.edu.vn"; // Địa chỉ email người gửi
-    private final String password = "rqonsojgwxfrbtba"; // Mật khẩu ứng dụng email người gửi
+    private final String password = ""; // Mật khẩu ứng dụng email người gửi rqonsojgwxfrbtba
 
     public static void main(String[] args) {
         SendEmail emailSender = new SendEmail();
